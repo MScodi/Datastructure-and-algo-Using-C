@@ -3,11 +3,12 @@
 # SEARCHING
 
         
-        __Linear Search__           Worst Case: 0(n)   
+  _Linear Search__           Worst Case: 0(n)   
 
-        *Binary Search*           
+  *Binary Search*           
                                                 ***Divide and Conquer***
             Always worked on Sorted Array
-            Complexity =o(log n),space=o(1)   // Iterative and Recursive(space=o(log n)) 
+            Complexity =_o(log n),space=o(1)_   // Iterative and Recursive(space=o(log n))
+          
             
         
